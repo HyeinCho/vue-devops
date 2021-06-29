@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Welcome to 혜인 App" />
+  <HelloWorld msg="테스트 끝!!!!" />
 </template>
 
 <script>
