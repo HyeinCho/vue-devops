@@ -1,7 +1,7 @@
 <template>
   <div>
     <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="테스트 끝!!!!" />
+    <HelloWorld msg="다시 실수 체크" />
   </div>
 </template>
 
